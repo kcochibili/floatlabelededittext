@@ -50,7 +50,7 @@ and then insert the view in XML:
     <com.wrapp.floatlabelededittext.FloatLabeledEditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        float:fletPadding="10dp">
+        app:fletPadding="10dp">
 
         <EditText
             android:layout_width="match_parent"
@@ -62,7 +62,7 @@ and then insert the view in XML:
     <com.wrapp.floatlabelededittext.FloatLabeledEditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        float:fletPaddingBottom="10dp">
+        app:fletPaddingBottom="10dp">
 
         <EditText
             android:layout_width="match_parent"
